@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    /* Activa el diseño flexbox */
+    justify-content: space-around;
+    /* Espacia uniformemente las cards */
+    align-items: center;
+    /* Alinea verticalmente las cards */
+    gap: 1rem;
+    /* Espacio entre las cards */
+}
